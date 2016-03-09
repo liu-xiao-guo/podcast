@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=podcast
+Exec=qmlscene $@ Main.qml
+Icon=podcast.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

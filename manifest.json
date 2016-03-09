@@ -1,0 +1,17 @@
+{
+    "name": "podcast.liu-xiao-guo",
+    "description": "description of podcast",
+    "architecture": "all",
+    "title": "podcast",
+    "hooks": {
+        "podcast": {
+            "apparmor": "podcast.apparmor",
+            "desktop":  "podcast.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
